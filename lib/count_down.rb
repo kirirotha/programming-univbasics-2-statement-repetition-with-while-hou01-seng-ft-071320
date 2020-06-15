@@ -3,8 +3,8 @@
 count = 10 
 
 while (count > 0) do
-  print count
+  put count
   count -= 1
 end
-print "Happy New Year!"
+put "Happy New Year!"
   
