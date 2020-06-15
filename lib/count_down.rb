@@ -3,8 +3,8 @@
 count = 10 
 
 while (count > 0) do
-  put count.s
+  puts count
   count -= 1
 end
-put "Happy New Year!"
+puts "Happy New Year!"
   
